@@ -1,0 +1,182 @@
+# REJECT Start
+// Tracking-Protection
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,umengcloud.com,DIRECT
+DOMAIN-SUFFIX,umeng.com,DIRECT
+DOMAIN-SUFFIX,cnzz.com
+DOMAIN-SUFFIX,growingio.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,inmobi.cn
+DOMAIN-SUFFIX,lnk0.com
+DOMAIN-SUFFIX,serving-sys.com
+DOMAIN,cdn.segment.com
+DOMAIN,static.jpush.cn
+DOMAIN,js.users.51.la
+// Advertisement-Protection
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googleadsserving.cn
+DOMAIN-SUFFIX,admaster.com.cn
+DOMAIN-SUFFIX,adinall.com
+DOMAIN-SUFFIX,aerserv.com
+DOMAIN-SUFFIX,adview.cn
+DOMAIN-SUFFIX,cocounion.com
+DOMAIN-SUFFIX,ctrmi.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,irs01.com
+DOMAIN-SUFFIX,kejet.net
+DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,moatads.com
+DOMAIN-SUFFIX,mopub.com
+DOMAIN-SUFFIX,qchannel01.cn
+DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,tuanxue360.net
+DOMAIN,ad.12306.cn
+DOMAIN,adxserver.ad.cmvideo.cn
+DOMAIN,ads-twitter.com
+DOMAIN,adshow.58.com
+DOMAIN,ads.simplepath.com
+DOMAIN,ads.nexage.com
+DOMAIN,adplatform.vrtcal.com
+DOMAIN,ad.jiemian.com
+DOMAIN,ggs.myzaker.com
+DOMAIN,adshows.21cn.com
+DOMAIN,ad-cn.jovcloud.com
+DOMAIN,sugar.zhihu.com
+// Baidu
+DOMAIN-SUFFIX,baidustatic.com
+DOMAIN,hm.baidu.com
+DOMAIN,hmma.baidu.com
+DOMAIN,mobads-logs.baidu.com
+DOMAIN,mobads.baidu.com
+DOMAIN,unionsug.baidu.com
+DOMAIN,wn.pos.baidu.com
+// -Baidu_high-acc-ip
+DOMAIN,ps.map.baidu.com
+DOMAIN,sv.map.baidu.com
+DOMAIN,offnavi.map.baidu.com
+DOMAIN,newvector.map.baidu.com
+DOMAIN,ulog.imap.baidu.com
+DOMAIN,newloc.map.n.shifen.com
+// Ali
+DOMAIN,adash-c.ut.taobao.com
+DOMAIN,adashxgc.ut.taobao.com
+DOMAIN,adashbc.ut.taobao.com
+DOMAIN,adash.man.aliyuncs.com
+DOMAIN,apoll.m.taobao.com
+DOMAIN,amdc.m.taobao.com
+// Tencent
+DOMAIN,pingma.qq.com
+DOMAIN,mi.gdt.qq.com
+// -TencentVideo
+DOMAIN,mtrace.qq.com
+// 163
+DOMAIN-SUFFIX,analytics.126.net
+DOMAIN,iadmat.nosdn.127.net
+DOMAIN,static.ws.126.net
+// AutoNavi
+DOMAIN,nbsdk-baichuan.alicdn.com
+// iQiyi
+DOMAIN-SUFFIX,cupid.iqiyi.com
+DOMAIN,ifacelog.iqiyi.com
+DOMAIN,mbdlog.iqiyi.com
+DOMAIN,msg.71.am
+IP-CIDR,101.227.200.28/32
+IP-CIDR,124.192.153.42/32
+// Youku
+DOMAIN-SUFFIX,atm.youku.com
+DOMAIN,ad.mobile.youku.com
+DOMAIN,iyes.youku.com
+// Sohu
+DOMAIN-SUFFIX,ads.sohu.com
+// -SohuVideo
+DOMAIN-SUFFIX,aty.sohu.com
+DOMAIN,imp.optaim.com
+DOMAIN,v2.reachmax.cn
+DOMAIN,data.vod.itc.cn
+// Hunan_TV
+DOMAIN-SUFFIX,da.mgtv.com
+DOMAIN-SUFFIX,da.hunantv.com
+DOMAIN-SUFFIX,log.hunantv.com
+DOMAIN,log.v2.hunantv.com
+DOMAIN,v2.log.hunantv.com
+// PPTV
+DOMAIN,asimgs.pplive.cn
+// Le
+DOMAIN-SUFFIX,webp2p.letv.com
+DOMAIN,ark.letv.com
+DOMAIN,g3.letv.com
+DOMAIN,n.mark.letv.com
+// XiMaLaYa
+DOMAIN,ad.ximalaya.com
+DOMAIN,adse.ximalaya.com
+// Moji
+DOMAIN,ad.api.moji.com
+DOMAIN,v1.log.moji.com
+// Kugou and Kuwo
+DOMAIN,adserviceretry.kugou.com
+DOMAIN,ads.service.kugou.com
+DOMAIN,adsfile.bssdlbig.kugou.com
+DOMAIN,log.stat.kugou.com
+DOMAIN,log.web.kugou.com
+DOMAIN,kgmobilestat.kugou.com
+DOMAIN,kgmobilestatbak.kugou.com
+DOMAIN,mobilelog.kugou.com
+DOMAIN,mobilead.kuwo.cn
+DOMAIN,rich.kuwo.cn
+// Internet Service Provider Hijack
+DOMAIN-SUFFIX,cszlks.com
+DOMAIN-SUFFIX,freedrive.cn
+DOMAIN-SUFFIX,fkku194.com
+DOMAIN-SUFFIX,mlnbike.com
+DOMAIN-SUFFIX,quanliyouxi.cn
+DOMAIN-SUFFIX,feih.com.cn
+IP-CIDR,47.89.59.182/32
+// -ChinaNet
+IP-CIDR,61.160.200.223/32
+IP-CIDR,61.160.200.242/32
+IP-CIDR,61.160.200.252/32
+IP-CIDR,111.175.220.164/32
+IP-CIDR,124.232.160.178/32
+IP-CIDR,175.6.223.15/32
+IP-CIDR,183.59.53.237/32
+IP-CIDR,218.93.127.37/32
+IP-CIDR,221.231.6.79/32
+IP-CIDR,222.186.61.91/32
+IP-CIDR,222.186.61.95/32
+IP-CIDR,222.186.61.96/32
+// -ChinaUnicom
+// -Dr.Peng
+IP-CIDR,10.72.25.13/32
+IP-CIDR,115.182.16.79/32
+IP-CIDR,118.144.88.126/32
+IP-CIDR,118.144.88.215/32
+IP-CIDR,124.14.21.147/32
+IP-CIDR,124.14.21.151/32
+IP-CIDR,180.166.52.24/32
+IP-CIDR,220.115.251.25/32
+IP-CIDR,222.73.156.235/32
+// Blacklist
+DOMAIN-SUFFIX,coinhive.com
+DOMAIN-SUFFIX,makeding.com
+DOMAIN-SUFFIX,mairuan.com
+// Other
+DOMAIN-SUFFIX,258ydh.com
+DOMAIN-SUFFIX,36900yh.com
+DOMAIN-SUFFIX,addthis.com
+DOMAIN-SUFFIX,dnaxddnc.com
+DOMAIN-SUFFIX,edo5.com
+DOMAIN-SUFFIX,exosrv.com
+DOMAIN-SUFFIX,jieyixiu.com
+DOMAIN-SUFFIX,jinchaoyu.com
+DOMAIN-SUFFIX,mhtg123.com
+DOMAIN-SUFFIX,njcxd.com
+DOMAIN-SUFFIX,shangz99991.com
+DOMAIN-SUFFIX,sjaidu.com
+DOMAIN-SUFFIX,tourdapeng.cn
+DOMAIN-SUFFIX,xmh10.com
+DOMAIN-SUFFIX,xmh121.com
+DOMAIN-SUFFIX,yootui19999.com
+# REJECT End
