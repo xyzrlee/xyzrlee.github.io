@@ -63,6 +63,7 @@ DOMAIN-SUFFIX,drivecdn.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,eirin.jp
 DOMAIN-SUFFIX,epochtimes.com
 DOMAIN-SUFFIX,ettoday.net
 DOMAIN-SUFFIX,everipedia.org
@@ -108,6 +109,7 @@ DOMAIN-SUFFIX,kapeli.com
 DOMAIN-SUFFIX,letscorp.net
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,linode.com
 DOMAIN-SUFFIX,liquipedia.net
 DOMAIN-SUFFIX,livedoor.jp
 DOMAIN-SUFFIX,logitech.com
@@ -144,6 +146,7 @@ DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,pinterest.jp
+DOMAIN-SUFFIX,pixhost.org
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixivsketch.net
 DOMAIN-SUFFIX,pixnet.net
@@ -152,6 +155,7 @@ DOMAIN-SUFFIX,postimg.org
 DOMAIN-SUFFIX,privoxy.org
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,psg-esports.com
+DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,quora.com
