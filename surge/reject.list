@@ -1,30 +1,30 @@
 # REJECT Start
 // Tracking-Protection
-DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,appsflyer.com
-DOMAIN-SUFFIX,umengcloud.com,DIRECT
-DOMAIN-SUFFIX,umeng.com,DIRECT
 DOMAIN-SUFFIX,cnzz.com
+DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,growingio.com
-DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,inmobi.cn
+DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,lnk0.com
 DOMAIN-SUFFIX,serving-sys.com
+DOMAIN-SUFFIX,umeng.com,DIRECT
+DOMAIN-SUFFIX,umengcloud.com,DIRECT
 DOMAIN,cdn.segment.com
-DOMAIN,static.jpush.cn
 DOMAIN,js.users.51.la
+DOMAIN,static.jpush.cn
 // Advertisement-Protection
-DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,googleadsserving.cn
-DOMAIN-SUFFIX,admaster.com.cn
 DOMAIN-SUFFIX,adinall.com
-DOMAIN-SUFFIX,aerserv.com
+DOMAIN-SUFFIX,admaster.com.cn
 DOMAIN-SUFFIX,adview.cn
+DOMAIN-SUFFIX,aerserv.com
 DOMAIN-SUFFIX,cocounion.com
 DOMAIN-SUFFIX,ctrmi.com
 DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googleadsserving.cn
+DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,irs01.com
 DOMAIN-SUFFIX,kejet.net
 DOMAIN-SUFFIX,miaozhen.com
@@ -33,17 +33,17 @@ DOMAIN-SUFFIX,mopub.com
 DOMAIN-SUFFIX,qchannel01.cn
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,tuanxue360.net
-DOMAIN,ad.12306.cn
-DOMAIN,adxserver.ad.cmvideo.cn
-DOMAIN,ads-twitter.com
-DOMAIN,adshow.58.com
-DOMAIN,ads.simplepath.com
-DOMAIN,ads.nexage.com
-DOMAIN,adplatform.vrtcal.com
-DOMAIN,ad.jiemian.com
-DOMAIN,ggs.myzaker.com
-DOMAIN,adshows.21cn.com
 DOMAIN,ad-cn.jovcloud.com
+DOMAIN,ad.12306.cn
+DOMAIN,ad.jiemian.com
+DOMAIN,adplatform.vrtcal.com
+DOMAIN,ads-twitter.com
+DOMAIN,ads.nexage.com
+DOMAIN,ads.simplepath.com
+DOMAIN,adshow.58.com
+DOMAIN,adshows.21cn.com
+DOMAIN,adxserver.ad.cmvideo.cn
+DOMAIN,ggs.myzaker.com
 DOMAIN,sugar.zhihu.com
 // Baidu
 DOMAIN-SUFFIX,baidustatic.com
@@ -54,22 +54,22 @@ DOMAIN,mobads.baidu.com
 DOMAIN,unionsug.baidu.com
 DOMAIN,wn.pos.baidu.com
 // -Baidu_high-acc-ip
+DOMAIN,newloc.map.n.shifen.com
+DOMAIN,newvector.map.baidu.com
+DOMAIN,offnavi.map.baidu.com
 DOMAIN,ps.map.baidu.com
 DOMAIN,sv.map.baidu.com
-DOMAIN,offnavi.map.baidu.com
-DOMAIN,newvector.map.baidu.com
 DOMAIN,ulog.imap.baidu.com
-DOMAIN,newloc.map.n.shifen.com
 // Ali
 DOMAIN,adash-c.ut.taobao.com
-DOMAIN,adashxgc.ut.taobao.com
-DOMAIN,adashbc.ut.taobao.com
 DOMAIN,adash.man.aliyuncs.com
-DOMAIN,apoll.m.taobao.com
+DOMAIN,adashbc.ut.taobao.com
+DOMAIN,adashxgc.ut.taobao.com
 DOMAIN,amdc.m.taobao.com
+DOMAIN,apoll.m.taobao.com
 // Tencent
-DOMAIN,pingma.qq.com
 DOMAIN,mi.gdt.qq.com
+DOMAIN,pingma.qq.com
 // -TencentVideo
 DOMAIN,mtrace.qq.com
 // 163
@@ -180,4 +180,5 @@ DOMAIN-SUFFIX,wifi8.com
 DOMAIN-SUFFIX,xmh10.com
 DOMAIN-SUFFIX,xmh121.com
 DOMAIN-SUFFIX,yootui19999.com
+USER-AGENT,%E8%B6%85%E7%BA%A7%E8%AE%A1%E7%AE%97%E5%99%A8*
 # REJECT End
