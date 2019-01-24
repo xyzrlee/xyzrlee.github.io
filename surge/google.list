@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,api.recaptcha.net
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,golang.org
+DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,google.ae
 DOMAIN-SUFFIX,google.am
 DOMAIN-SUFFIX,google.as
@@ -66,6 +67,7 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,tensorflow.org
+DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtubeeducation.com

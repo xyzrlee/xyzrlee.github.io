@@ -77,15 +77,11 @@ DOMAIN-SUFFIX,git.kernel.org
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,godaddy.com
-DOMAIN-SUFFIX,golang.org
-DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,goodreaders.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,greasyfork.org
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,hkgolden.com
 DOMAIN-SUFFIX,ift.tt
 DOMAIN-SUFFIX,igfw.net
@@ -171,18 +167,14 @@ DOMAIN-SUFFIX,sydneytoday.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,teamliquid.net
-DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,theinitium.com
 DOMAIN-SUFFIX,tmblr.co
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,tw.answers.yahoo.com
-DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twishort.com
 DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,txmblr.com
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,udn.com
@@ -192,7 +184,6 @@ DOMAIN-SUFFIX,uwants.com
 DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
-DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,voachinese.com
 DOMAIN-SUFFIX,wikia.com
 DOMAIN-SUFFIX,wikimedia.org
@@ -202,9 +193,6 @@ DOMAIN-SUFFIX,windy.com
 DOMAIN-SUFFIX,wireshark.org
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,xuite.net
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,zhuixinfan.com
 DOMAIN-SUFFIX,zimuzu.tv
 # proxy End
