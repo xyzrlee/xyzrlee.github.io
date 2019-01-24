@@ -3,11 +3,8 @@ USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*
 USER-AGENT,initium*
 USER-AGENT,WSJ*
 DOMAIN-KEYWORD,facebook
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,twitter
-DOMAIN-KEYWORD,youtube
 DOMAIN,api.ocr.space
 DOMAIN,books.itunes.apple.com
 DOMAIN,di.phcdn.com
