@@ -4,11 +4,9 @@ USER-AGENT,initium*
 USER-AGENT,WSJ*
 DOMAIN,api.ocr.space
 DOMAIN,books.itunes.apple.com
-DOMAIN,di.phcdn.com
 DOMAIN,files.pythonhosted.org
 DOMAIN,itunes.apple.com
 DOMAIN,nicovideo.cdn.nimg.jp
-DOMAIN,steamstore-a.akamaihd.net
 DOMAIN-SUFFIX,25.io
 DOMAIN-SUFFIX,adapf.com
 DOMAIN-SUFFIX,adblockplus.org
@@ -16,17 +14,10 @@ DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,ameba.jp
-DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,api.steampowered.com
-DOMAIN-SUFFIX,appledaily.com
-DOMAIN-SUFFIX,appledaily.com.tw
 DOMAIN-SUFFIX,apprcn.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,bandwagonhost.com
-DOMAIN-SUFFIX,bbc.co.uk
-DOMAIN-SUFFIX,bbc.com
-DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,bitsnoop.com
@@ -74,9 +65,6 @@ DOMAIN-SUFFIX,fw.cm
 DOMAIN-SUFFIX,gamepedia.com
 DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN-SUFFIX,git.kernel.org
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,goodreaders.com
 DOMAIN-SUFFIX,goodreads.com
@@ -85,7 +73,6 @@ DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,hkgolden.com
 DOMAIN-SUFFIX,ift.tt
 DOMAIN-SUFFIX,igfw.net
-DOMAIN-SUFFIX,imagehosting.biz
 DOMAIN-SUFFIX,imagehosting.biz
 DOMAIN-SUFFIX,imageshack.us
 DOMAIN-SUFFIX,imageshot.eu
@@ -160,8 +147,6 @@ DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,ssl-cdn.com
 DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,sstatic.net
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,storm.mg
 DOMAIN-SUFFIX,sydneytoday.com
 DOMAIN-SUFFIX,t.co
@@ -185,10 +170,6 @@ DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,voachinese.com
-DOMAIN-SUFFIX,wikia.com
-DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,wikipedia.com
-DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,windy.com
 DOMAIN-SUFFIX,wireshark.org
 DOMAIN-SUFFIX,wsj.com

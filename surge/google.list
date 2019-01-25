@@ -1,5 +1,6 @@
 # proxy
 DOMAIN-SUFFIX,admin.recaptcha.net
+DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,api-secure.recaptcha.net
 DOMAIN-SUFFIX,api-verify.recaptcha.net
 DOMAIN-SUFFIX,api.recaptcha.net
