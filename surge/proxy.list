@@ -1,4 +1,5 @@
 # proxy
+RULE-SET,https://g.illl.app/surge/google.list
 USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*
 USER-AGENT,initium*
 USER-AGENT,WSJ*
