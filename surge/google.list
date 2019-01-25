@@ -1,9 +1,6 @@
 # proxy
 DOMAIN-SUFFIX,admin.recaptcha.net
 DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,api-secure.recaptcha.net
-DOMAIN-SUFFIX,api-verify.recaptcha.net
-DOMAIN-SUFFIX,api.recaptcha.net
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,golang.org
@@ -67,6 +64,7 @@ DOMAIN-SUFFIX,googleearth.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
