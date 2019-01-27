@@ -9,3 +9,7 @@ DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbc.in
 DOMAIN-SUFFIX,bbcchinese.com
 DOMAIN-SUFFIX,bbci.co.uk
+## sankei
+DOMAIN-SUFFIX,sankei.com
+## dw
+DOMAIN-SUFFIX,dw.com

@@ -1,6 +1,6 @@
 # proxy
-DOMAIN-SUFFIX,admin.recaptcha.net
 DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,golang.org

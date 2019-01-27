@@ -5,6 +5,7 @@ USER-AGENT,WSJ*
 DOMAIN,api.ocr.space
 DOMAIN,books.itunes.apple.com
 DOMAIN,files.pythonhosted.org
+DOMAIN,go.uber.org
 DOMAIN,itunes.apple.com
 DOMAIN,nicovideo.cdn.nimg.jp
 DOMAIN-SUFFIX,25.io
@@ -29,6 +30,7 @@ DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,blogimg.jp
 DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,blogspot.jp
+DOMAIN-SUFFIX,blogspot.tw
 DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,cdn.ampproject.org
 DOMAIN-SUFFIX,chinagfw.org
@@ -42,6 +44,7 @@ DOMAIN-SUFFIX,ctext.org
 DOMAIN-SUFFIX,curse.com
 DOMAIN-SUFFIX,curseapp.net
 DOMAIN-SUFFIX,cursecdn.com
+DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,doub.io
 DOMAIN-SUFFIX,drivecdn.com
@@ -105,7 +108,8 @@ DOMAIN-SUFFIX,mobypicture.com
 DOMAIN-SUFFIX,modmyi.com
 DOMAIN-SUFFIX,mp4ba.com
 DOMAIN-SUFFIX,msr-public-ubiservices.ubi.com
-#DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,nav.cx
+DOMAIN-SUFFIX,naver.jp
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,nyt.com
@@ -136,8 +140,10 @@ DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,rfi.fr
@@ -157,6 +163,7 @@ DOMAIN-SUFFIX,theinitium.com
 DOMAIN-SUFFIX,tmblr.co
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,tumblr.com
+DOMAIN-SUFFIX,tunsafe.com
 DOMAIN-SUFFIX,tw.answers.yahoo.com
 DOMAIN-SUFFIX,twishort.com
 DOMAIN-SUFFIX,twitch.tv
@@ -171,9 +178,12 @@ DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,voachinese.com
 DOMAIN-SUFFIX,windy.com
+DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,wireshark.org
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,xuite.net
 DOMAIN-SUFFIX,zhuixinfan.com
 DOMAIN-SUFFIX,zimuzu.tv
+DOMAIN,download.oracle.com
+DOMAIN,repo.maven.apache.org
 # proxy End
