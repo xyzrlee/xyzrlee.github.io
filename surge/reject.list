@@ -79,12 +79,25 @@ DOMAIN,static.ws.126.net
 // AutoNavi
 DOMAIN,nbsdk-baichuan.alicdn.com
 // iQiyi
-DOMAIN-SUFFIX,cupid.iqiyi.com
-DOMAIN,ifacelog.iqiyi.com
-DOMAIN,mbdlog.iqiyi.com
-DOMAIN,msg.71.am
-IP-CIDR,101.227.200.28/32
-IP-CIDR,124.192.153.42/32
+DOMAIN-SUFFIX,ad.m.iqiyi.com,no-resolv
+DOMAIN-SUFFIX,afp.iqiyi.com,no-resolv
+DOMAIN-SUFFIX,api.cupid.iqiyi.com,no-resolv
+DOMAIN-SUFFIX,c.uaa.iqiyi.com,no-resolv
+DOMAIN-SUFFIX,cloudpush.iqiyi.com,no-resolv
+DOMAIN-SUFFIX,cm.passport.iqiyi.com,no-resolv
+DOMAIN-SUFFIX,emoticon.sns.iqiyi.com,no-resolv
+DOMAIN-SUFFIX,gamecenter.iqiyi.com,no-resolv
+DOMAIN-SUFFIX,hotchat-im.iqiyi.com,no-resolv
+DOMAIN-SUFFIX,ifacelog.iqiyi.com,no-resolv
+DOMAIN-SUFFIX,mbdlog.iqiyi.com,no-resolv
+DOMAIN-SUFFIX,meta.video.qiyi.com,no-resolv
+DOMAIN-SUFFIX,paopao.iqiyi.com,no-resolv
+DOMAIN-SUFFIX,policy.video.iqiyi.com,no-resolv
+DOMAIN-SUFFIX,rcd.iqiyi.com,no-resolv
+DOMAIN-SUFFIX,cmts.iqiyi.com,no-resolv
+DOMAIN-SUFFIX,data.video.qiyi.com,no-resolv
+DOMAIN-SUFFIX,msg.71.am,no-resolv
+DOMAIN-SUFFIX,msga.cupid.iqiyi.com,no-resolv
 // Youku
 DOMAIN-SUFFIX,atm.youku.com
 DOMAIN,ad.mobile.youku.com
@@ -133,31 +146,6 @@ DOMAIN-SUFFIX,fkku194.com
 DOMAIN-SUFFIX,mlnbike.com
 DOMAIN-SUFFIX,quanliyouxi.cn
 DOMAIN-SUFFIX,feih.com.cn
-IP-CIDR,47.89.59.182/32
-// -ChinaNet
-IP-CIDR,61.160.200.223/32
-IP-CIDR,61.160.200.242/32
-IP-CIDR,61.160.200.252/32
-IP-CIDR,111.175.220.164/32
-IP-CIDR,124.232.160.178/32
-IP-CIDR,175.6.223.15/32
-IP-CIDR,183.59.53.237/32
-IP-CIDR,218.93.127.37/32
-IP-CIDR,221.231.6.79/32
-IP-CIDR,222.186.61.91/32
-IP-CIDR,222.186.61.95/32
-IP-CIDR,222.186.61.96/32
-// -ChinaUnicom
-// -Dr.Peng
-IP-CIDR,10.72.25.13/32
-IP-CIDR,115.182.16.79/32
-IP-CIDR,118.144.88.126/32
-IP-CIDR,118.144.88.215/32
-IP-CIDR,124.14.21.147/32
-IP-CIDR,124.14.21.151/32
-IP-CIDR,180.166.52.24/32
-IP-CIDR,220.115.251.25/32
-IP-CIDR,222.73.156.235/32
 // Blacklist
 DOMAIN-SUFFIX,coinhive.com
 DOMAIN-SUFFIX,makeding.com
