@@ -1,6 +1,7 @@
 # proxy
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,g.co
+DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,golang.org
