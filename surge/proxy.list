@@ -1,7 +1,4 @@
 # proxy
-USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*
-USER-AGENT,initium*
-USER-AGENT,WSJ*
 DOMAIN,api.ocr.space
 DOMAIN,books.itunes.apple.com
 DOMAIN,files.pythonhosted.org
@@ -52,11 +49,7 @@ DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,eirin.jp
-DOMAIN-SUFFIX,epochtimes.com
-DOMAIN-SUFFIX,ettoday.net
 DOMAIN-SUFFIX,everipedia.org
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fc2.com
 DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,feedly.com
@@ -67,7 +60,6 @@ DOMAIN-SUFFIX,freeweibo.com
 DOMAIN-SUFFIX,fw.cm
 DOMAIN-SUFFIX,gamepedia.com
 DOMAIN-SUFFIX,gamer.com.tw
-DOMAIN-SUFFIX,git.kernel.org
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,goodreaders.com
 DOMAIN-SUFFIX,goodreads.com
@@ -112,9 +104,6 @@ DOMAIN-SUFFIX,nav.cx
 DOMAIN-SUFFIX,naver.jp
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nssurge.com
-DOMAIN-SUFFIX,nyt.com
-DOMAIN-SUFFIX,nytimes.com
-DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,obdev.at
 DOMAIN-SUFFIX,offcloud.com
 DOMAIN-SUFFIX,onlyfans.com
@@ -124,9 +113,6 @@ DOMAIN-SUFFIX,otapol.jp
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,peacehall.com
 DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,pinimg.com
-DOMAIN-SUFFIX,pinterest.com
-DOMAIN-SUFFIX,pinterest.jp
 DOMAIN-SUFFIX,pixhost.org
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixivsketch.net
@@ -140,11 +126,6 @@ DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,quora.com
-DOMAIN-SUFFIX,redd.it
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,redditmedia.com
-DOMAIN-SUFFIX,redditstatic.com
-DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,simulationcraft.org
@@ -155,19 +136,13 @@ DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,storm.mg
 DOMAIN-SUFFIX,sydneytoday.com
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,teamliquid.net
-DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,theinitium.com
-DOMAIN-SUFFIX,tmblr.co
 DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,tunsafe.com
 DOMAIN-SUFFIX,tw.answers.yahoo.com
 DOMAIN-SUFFIX,twishort.com
 DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,txmblr.com
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,udn.com
 DOMAIN-SUFFIX,ultraimg.com
@@ -180,7 +155,6 @@ DOMAIN-SUFFIX,voachinese.com
 DOMAIN-SUFFIX,windy.com
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,wireshark.org
-DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,xuite.net
 DOMAIN-SUFFIX,zhuixinfan.com
 DOMAIN-SUFFIX,zimuzu.tv

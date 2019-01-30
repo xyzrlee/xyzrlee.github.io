@@ -13,3 +13,17 @@ DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,sankei.com
 ## dw
 DOMAIN-SUFFIX,dw.com
+## reuters
+DOMAIN-SUFFIX,reuters.com
+## epochtimes
+DOMAIN-SUFFIX,epochtimes.com
+## ettoday
+DOMAIN-SUFFIX,ettoday.net
+# new york times
+DOMAIN-SUFFIX,nyt.com
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,nytstyle.com
+# initium
+DOMAIN-SUFFIX,theinitium.com
+# the wall street journal
+DOMAIN-SUFFIX,wsj.com

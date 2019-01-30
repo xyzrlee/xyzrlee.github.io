@@ -19,6 +19,7 @@ USER-AGENT,org.telegram.TelegramHD*
 USER-AGENT,ph.telegra.Telegraph*
 PROCESS-NAME,Telegram
 DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,t.me
 IP-CIDR,91.108.4.0/22,no-resolv
 IP-CIDR,91.108.8.0/21,no-resolv
 IP-CIDR,91.108.16.0/21,no-resolv
@@ -38,3 +39,17 @@ DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,vine.co
+# Reddit
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+# Textnow
+DOMAIN-SUFFIX,textnow.me
+# Tumblr
+DOMAIN-SUFFIX,tmblr.co
+DOMAIN-SUFFIX,tumblr.com
+# Pinterest
+DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,pinterest.com
+DOMAIN-SUFFIX,pinterest.jp
