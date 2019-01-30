@@ -79,25 +79,25 @@ DOMAIN,static.ws.126.net
 // AutoNavi
 DOMAIN,nbsdk-baichuan.alicdn.com
 // iQiyi
-DOMAIN-SUFFIX,ad.m.iqiyi.com,no-resolv
-DOMAIN-SUFFIX,afp.iqiyi.com,no-resolv
-DOMAIN-SUFFIX,api.cupid.iqiyi.com,no-resolv
-DOMAIN-SUFFIX,c.uaa.iqiyi.com,no-resolv
-DOMAIN-SUFFIX,cloudpush.iqiyi.com,no-resolv
-DOMAIN-SUFFIX,cm.passport.iqiyi.com,no-resolv
-DOMAIN-SUFFIX,emoticon.sns.iqiyi.com,no-resolv
-DOMAIN-SUFFIX,gamecenter.iqiyi.com,no-resolv
-DOMAIN-SUFFIX,hotchat-im.iqiyi.com,no-resolv
-DOMAIN-SUFFIX,ifacelog.iqiyi.com,no-resolv
-DOMAIN-SUFFIX,mbdlog.iqiyi.com,no-resolv
-DOMAIN-SUFFIX,meta.video.qiyi.com,no-resolv
-DOMAIN-SUFFIX,paopao.iqiyi.com,no-resolv
-DOMAIN-SUFFIX,policy.video.iqiyi.com,no-resolv
-DOMAIN-SUFFIX,rcd.iqiyi.com,no-resolv
-DOMAIN-SUFFIX,cmts.iqiyi.com,no-resolv
-DOMAIN-SUFFIX,data.video.qiyi.com,no-resolv
-DOMAIN-SUFFIX,msg.71.am,no-resolv
-DOMAIN-SUFFIX,msga.cupid.iqiyi.com,no-resolv
+DOMAIN-SUFFIX,ad.m.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,afp.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,api.cupid.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,c.uaa.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,cloudpush.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,cm.passport.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,emoticon.sns.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,gamecenter.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,hotchat-im.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,ifacelog.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,mbdlog.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,meta.video.qiyi.com,no-resolve
+DOMAIN-SUFFIX,paopao.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,policy.video.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,rcd.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,cmts.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,data.video.qiyi.com,no-resolve
+DOMAIN-SUFFIX,msg.71.am,no-resolve
+DOMAIN-SUFFIX,msga.cupid.iqiyi.com,no-resolve
 // Youku
 DOMAIN-SUFFIX,atm.youku.com
 DOMAIN,ad.mobile.youku.com
