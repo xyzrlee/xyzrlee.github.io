@@ -1,10 +1,12 @@
 # proxy
 DOMAIN,api.ocr.space
 DOMAIN,books.itunes.apple.com
+DOMAIN,download.oracle.com
 DOMAIN,files.pythonhosted.org
 DOMAIN,go.uber.org
 DOMAIN,itunes.apple.com
 DOMAIN,nicovideo.cdn.nimg.jp
+DOMAIN,repo.maven.apache.org
 DOMAIN-SUFFIX,25.io
 DOMAIN-SUFFIX,adapf.com
 DOMAIN-SUFFIX,adblockplus.org
@@ -113,10 +115,6 @@ DOMAIN-SUFFIX,otapol.jp
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,peacehall.com
 DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,pixhost.org
-DOMAIN-SUFFIX,pixiv.net
-DOMAIN-SUFFIX,pixivsketch.net
-DOMAIN-SUFFIX,pixnet.net
 DOMAIN-SUFFIX,pokemon.com
 DOMAIN-SUFFIX,postimg.org
 DOMAIN-SUFFIX,privoxy.org
@@ -158,6 +156,4 @@ DOMAIN-SUFFIX,wireshark.org
 DOMAIN-SUFFIX,xuite.net
 DOMAIN-SUFFIX,zhuixinfan.com
 DOMAIN-SUFFIX,zimuzu.tv
-DOMAIN,download.oracle.com
-DOMAIN,repo.maven.apache.org
 # proxy End

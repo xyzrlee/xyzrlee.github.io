@@ -46,6 +46,10 @@ DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditstatic.com
 # Textnow
 DOMAIN-SUFFIX,textnow.me
+# Tiktok
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
 # Tumblr
 DOMAIN-SUFFIX,tmblr.co
 DOMAIN-SUFFIX,tumblr.com
