@@ -6,6 +6,7 @@ install:
 
 script:
     - script/build.sh
+    - script/uniq_reject_list.sh
 
 deploy:
     provider: pages
