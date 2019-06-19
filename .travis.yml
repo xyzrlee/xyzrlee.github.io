@@ -8,11 +8,11 @@ script:
     - script/build.sh
 
 deploy:
-	provider: pages
-	skip-cleanup: true
-	target-branch: master
-	github-token: $GITHUB_TOKEN
-	keep-history: true
-	verbose: true
-	on:
-		branch: master
+    provider: pages
+    skip-cleanup: true
+    target-branch: master
+    github-token: $GITHUB_TOKEN
+    keep-history: true
+    verbose: true
+    on:
+        branch: master
