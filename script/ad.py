@@ -51,7 +51,15 @@ for rule_url in rules_url:
 
 # parse rule
 rule = rule.split('\n')
+rule_count = len(rule)
+p_count = 0
+l_perc_base = 0
 for row in rule:
+    p_count = p_count + 1
+    c_perc = p_count / rule_count * 100.0
+    if c_perc - l_perc_base >= 10:
+        print("%.2f%% lines" % c_perc)
+        l_perc_base = c_perc // 10 * 10
     row = row.strip()
     row0 = row
 
@@ -86,7 +94,7 @@ for row in rule:
 
     # 不能含有的字符
     if re.search(r'[/^:*]', row):
-        print('ignore: '+row0)
+        # print('ignore: '+row0)
         continue
 
     # 只匹配域名
