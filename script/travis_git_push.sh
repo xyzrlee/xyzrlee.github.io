@@ -14,5 +14,7 @@ if [ $? -ne 0 ]; then
     git config user.name "xyzrlee"
     git commit -m "travis commit"
     git push
+else
+    echo "no change detected"
 fi
 popd
