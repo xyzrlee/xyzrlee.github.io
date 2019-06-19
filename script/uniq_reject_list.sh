@@ -2,8 +2,7 @@
 
 script_path=$(cd `dirname $0`; pwd)
 
-export LC_COLLATE=C
-locale -a
+export LC_ALL=C
 
 pushd ${script_path}/..
 
