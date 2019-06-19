@@ -1,0 +1,8 @@
+language: minimal
+
+install:
+    - sudo apt-get update
+    - sudo apt-get install python python-pip -y
+
+script:
+    - script/build.sh && script/travis_git_push.sh
