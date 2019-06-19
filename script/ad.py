@@ -107,8 +107,6 @@ try:
 except:
     pass
 
-file_ad.write('# adblock rules refresh time: ' + time.strftime("%Y-%m-%d %H:%M:%S") + '\n')
-
 domains = list( set(domains) )
 domains.sort()
 
