@@ -3,6 +3,7 @@
 script_path=$(cd `dirname $0`; pwd)
 
 export LC_COLLATE=C
+locale -a
 
 pushd ${script_path}/..
 
