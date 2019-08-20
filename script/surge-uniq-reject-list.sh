@@ -6,10 +6,7 @@ export LC_ALL=C
 
 pushd ${script_path}/..
 
-uuid=`uuidgen`
-echo "uuid:${uuid}"
-tmp_dir="/tmp/${uuid}"
-mkdir -p ${tmp_dir}
+tmp_dir="$(mktemp -d)"
 cp surge/reject-other.list ${tmp_dir}/reject-other.list.ori
 cp surge/ad.list ${tmp_dir}/ad.list.ori
 
