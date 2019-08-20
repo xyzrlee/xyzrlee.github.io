@@ -7,6 +7,7 @@ install:
 script:
     - script/build.sh
     - script/uniq_reject_list.sh
+    - script/dnscrypt-proxy-forwarding.sh
 
 deploy:
     provider: pages
