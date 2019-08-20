@@ -6,8 +6,8 @@ install:
 
 script:
     - chmod +x script/*.sh
-    - script/build.sh
-    - script/uniq_reject_list.sh
+    - script/surge-ad.sh
+    - script/surge-uniq-reject-list.sh
     - script/dnscrypt-proxy-forwarding.sh
 
 deploy:
