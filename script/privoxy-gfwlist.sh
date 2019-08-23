@@ -8,6 +8,6 @@ wget https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt -O ${D
 gfwlist2privoxy -i ${DIR}/gfwlist.txt -f ${DIR}/gfwlist.action -p 127.0.0.1:1080 -t socks5
 
 mkdir -p privoxy
-cp ${DIR}/gfwlist.action privoxy/
+cp -v ${DIR}/gfwlist.action privoxy/
 
 popd
